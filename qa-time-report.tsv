@@ -1,0 +1,9 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/fsh-generated/resources/ImplementationGuide-ig-ee-starter.json	5390	-	0	0	0	0	0	0	8	94	0	0	0	0	0	0	0	0	0	0	51	59	0	0	0	2	0	0
+fsh-generated/resources/CodeSystem-ee-observation-code-system.json	542	34	0	0	0	0	0	1	0	21	0	0	1	0	0	0	0	0	0	0	19	2251	0	0	0	0	0	0
+fsh-generated/resources/Observation-EEClinicalObservationExample.json	1171	34	0	0	0	0	0	0	0	1371	0	0	0	0	0	0	0	0	0	0	13	22	0	0	0	0	0	0
+fsh-generated/resources/Patient-example.json	192	34	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	8	10	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-ee-body-position-extension.json	1472	23	0	14	0	0	0	0	0	59	0	0	0	0	0	0	0	1	0	0	43	551	0	0	0	2	0	0
+fsh-generated/resources/StructureDefinition-ee-clinical-observation.json	2047	9	0	91	1	0	0	0	0	61	0	0	0	0	0	0	0	1	0	0	192	757	0	0	0	11	1	1
+fsh-generated/resources/ValueSet-ee-body-position-vs.json	724	7	0	0	0	0	0	0	0	1013	0	0	0	0	0	0	0	0	0	0	16	1476	0	0	0	0	0	0
+fsh-generated/resources/ValueSet-ee-observation-code-vs.json	486	7	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	15	60	0	0	0	1	0	0
